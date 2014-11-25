@@ -1,12 +1,12 @@
-public class Pow {
-    public static void main(String[] args) {
-        System.out.println("aa");
-        // to jest nowy program
-        System.out.println(11 - 1);
-    }
+import static java.lang.System.*;
 
-    @Override
-    public String toString() {
-        return super.toString();
+public class Pow {
+    public static void main(String[] args){
+        String hello = "Ania";
+        System.out.println("hejka");
     }
 }
+private String Siemka;
+String hello = Siemka
+String ludzie = Ziema
+String wiosna = hello+ludzie
